@@ -1,0 +1,13 @@
+.success{
+	font-size: 18px;
+	color: green;
+}
+.error{
+	font-size: 18px;
+	color: red;
+}
+img.cangiua{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
